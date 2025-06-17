@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Mokaya911
-- 👀 I’m interested in ...data analysis with python
-- 🌱 I’m currently learning ... Python programming
-- 💞️ I’m looking to collaborate on ...anybody willing to help me learn
-- 📫 How to reach me ...
+# Hi, I'm Brian Mokaya! 👋
+Junior Data Analyst passionate about business intelligence and transforming data into actionable insights.
 
-<!---
-Mokaya911/Mokaya911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔧 Skills
+- Python (pandas, Matplotlib, scikit-learn)
+- MySQL
+- Data Analysis & Visualization
+- Business Intelligence
+
+## 📈 Featured Projects
+- Coming soon!
+
+## 📫 Get in Touch
+[Email](mailto:bryannokaya67@gmail.com) | [LinkedIn](www.linkedin.com/in/bryan-mokaya-763116184)
