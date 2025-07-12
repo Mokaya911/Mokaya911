@@ -1,11 +1,13 @@
 Brian Mokaya | Junior Data Analyst
 Welcome! I'm a junior data analyst passionate about transforming data into actionable insights using Python and MySQL, with a focus on business intelligence.
-🔧 Skills
 
-Python (pandas, Matplotlib, sklearn, nltk)
-MySQL
-Data Cleaning, Visualization, and Analysis
-Business Intelligence
+
+**Skills**
+- **Programming Languages:** Python, SQL
+- **Libraries:** pandas, Matplotlib, sklearn, nltk
+- **Databases:** MySQL
+- **Tools:** Jupyter Notebook
+- **Other:** Data Cleaning, Visualization, Business Intelligence
 
 📈 Featured Projects
 
