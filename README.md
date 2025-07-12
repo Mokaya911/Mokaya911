@@ -20,4 +20,4 @@ KISE Feedback Analysis: Used NLP to extract key themes from feedback for institu
 View my CV for more details on my experience and skills.
 
 ## 📫 Get in Touch
-[Email](mailto:bryannokaya67@gmail.com) | [LINKEDIN](https://www.linkedin.com/in/bryan-mokaya-763116184)
+[Email](mailto:bryannokaya67@gmail.com) | [LINKEDIN](https://www.linkedin.com/in/brian-mokaya-763116184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
